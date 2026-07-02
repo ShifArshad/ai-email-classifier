@@ -29,5 +29,5 @@ This project simulates a real-world email processing engine that ingests emails,
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/ai-email-classifier.git](https://github.com/your-username/ai-email-classifier.git)
+git clone [https://github.com/shifArshad/ai-email-classifier.git]
 cd ai-email-classifier
